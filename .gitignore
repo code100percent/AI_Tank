@@ -1,0 +1,47 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk.dir, GEMINI_API_KEY)
+local.properties
+
+# IDE files
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/codeStyles/
+.idea/inspectionProfiles/
+*.iml
+
+# OS specific files
+.DS_Store
+.Thumbnails
+Thumbs.db
+
+# Profiler
+*.hprof
+
+# Native build
+.externalNativeBuild/
+.cxx/
+.kotlin/
